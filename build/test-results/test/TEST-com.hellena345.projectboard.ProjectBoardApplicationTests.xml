@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.hellena345.projectboard.ProjectBoardApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-03-03T11:42:48" hostname="DESKTOP-J07LTVB" time="0.901">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.hellena345.projectboard.ProjectBoardApplicationTests" time="0.901"/>
+  <system-out><![CDATA[20:42:46.262 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.hellena345.projectboard.ProjectBoardApplicationTests]: ProjectBoardApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+20:42:46.395 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.hellena345.projectboard.ProjectBoardApplication for test class com.hellena345.projectboard.ProjectBoardApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.3)
+
+2024-03-03T20:42:46.828+09:00  INFO 7740 --- [    Test worker] c.h.p.ProjectBoardApplicationTests       : Starting ProjectBoardApplicationTests using Java 17.0.7 with PID 7740 (started by julia in C:\Users\julia\Desktop\fastcampus\project-board)
+2024-03-03T20:42:46.829+09:00  INFO 7740 --- [    Test worker] c.h.p.ProjectBoardApplicationTests       : No active profile set, falling back to 1 default profile: "default"
+2024-03-03T20:42:48.487+09:00  INFO 7740 --- [    Test worker] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-03-03T20:42:48.546+09:00  INFO 7740 --- [    Test worker] c.h.p.ProjectBoardApplicationTests       : Started ProjectBoardApplicationTests in 1.961 seconds (process running for 3.179)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
